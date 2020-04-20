@@ -1,0 +1,27 @@
+{
+	"name": "assets",
+	"private": true,
+	"description": "Static data store for DApps using Dev Protocol",
+	"scripts": {
+		"lint": "prettier --write '**/*.{json,md}'"
+	},
+	"husky": {
+		"hooks": {
+			"pre-commit": "npm run lint"
+		}
+	},
+	"devDependencies": {
+		"husky": "^4.2.5",
+		"prettier": "^2.0.4"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/dev-protocol/assets.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/dev-protocol/assets/issues"
+	},
+	"homepage": "https://github.com/dev-protocol/assets#readme"
+}
