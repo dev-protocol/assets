@@ -1,0 +1,8 @@
+{
+	"name": "A short name to explain this market.",
+	"description": "An overview of this market.",
+	"asset": {
+		"authenticate": "What this market authenticates as an asset.",
+		"calculate": "What this market calculates as asset strength."
+	}
+}
