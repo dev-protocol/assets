@@ -10,6 +10,9 @@ This repository is a static data store for DApps using Dev Protocol. Anyone can 
 - market
   - (folder named of market's address. i.g., `0x88c7B1f41DdE50efFc25541a2E0769B887eB2ee7`)
     - info.json
+- policy
+  - (folder named of policy's address. i.g., `0xcbc478710d3acd2e7b94f58bb639f345af5f7869`)
+    - info.json
 
 # How to contribution
 
