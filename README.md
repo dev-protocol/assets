@@ -16,4 +16,4 @@ This repository is a static data store for DApps using Dev Protocol. Anyone can 
 
 # How to contribution
 
-[Check out our Contributing guide →](https://github.com/dev-protocol/assets/blob/master/.github/CONTRIBUTING.md)
+[Check out our Contributing guide →](https://github.com/dev-protocol/assets/blob/main/.github/CONTRIBUTING.md)
