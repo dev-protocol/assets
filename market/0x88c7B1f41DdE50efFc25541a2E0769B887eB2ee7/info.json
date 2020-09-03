@@ -1,6 +1,6 @@
 {
 	"name": "npm",
-	"description": "Marketize the number of downloads of public npm packages.",
+	"description": "Marketize public npm packages",
 	"asset": {
 		"authentication": "Your npm package",
 		"usingKhaos": false
