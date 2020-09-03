@@ -3,7 +3,6 @@
 	"description": "An overview of this market.",
 	"asset": {
 		"authentication": "What this market authenticates as an asset.",
-		"calculation": "What this market calculates as asset strength.",
 		"usingKhaos": "true or false (false by default)"
 	}
 }
