@@ -1,0 +1,9 @@
+{
+	"name": "GitHub",
+	"description": "Authenticate your GitHub repositories",
+	"asset": {
+		"authentication": "Your GitHub repositories",
+		"calculation": "",
+		"usingKhaos": true
+	}
+}
